@@ -1,0 +1,3 @@
+C:/Users/curly/OneDrive/Informatik Studium/Semester_6/5 Computergraphik/Labor/Aufgabe 2 - Raytracing/Raytracer_Verzeichnis/build/CMakeFiles/geometry_test.dir
+C:/Users/curly/OneDrive/Informatik Studium/Semester_6/5 Computergraphik/Labor/Aufgabe 2 - Raytracing/Raytracer_Verzeichnis/build/CMakeFiles/edit_cache.dir
+C:/Users/curly/OneDrive/Informatik Studium/Semester_6/5 Computergraphik/Labor/Aufgabe 2 - Raytracing/Raytracer_Verzeichnis/build/CMakeFiles/rebuild_cache.dir

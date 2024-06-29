@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/curly/OneDrive/Informatik Studium/Semester_6/5 Computergraphik/Labor/Aufgabe 2 - Raytracing/Raytracer_Verzeichnis/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -g -std=gnu++20 -g -Wall -Wextra -Wpedantic -Wl,--stack,16777216 -o CMakeFiles\\geometry_test.dir\\math.cc.obj -c \"C:\\Users\\curly\\OneDrive\\Informatik Studium\\Semester_6\\5 Computergraphik\\Labor\\Aufgabe 2 - Raytracing\\Raytracer_Verzeichnis\\math.cc\"",
+  "file": "C:\\Users\\curly\\OneDrive\\Informatik Studium\\Semester_6\\5 Computergraphik\\Labor\\Aufgabe 2 - Raytracing\\Raytracer_Verzeichnis\\math.cc",
+  "output": "CMakeFiles\\geometry_test.dir\\math.cc.obj"
+},
+{
+  "directory": "C:/Users/curly/OneDrive/Informatik Studium/Semester_6/5 Computergraphik/Labor/Aufgabe 2 - Raytracing/Raytracer_Verzeichnis/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -g -std=gnu++20 -g -Wall -Wextra -Wpedantic -Wl,--stack,16777216 -o CMakeFiles\\geometry_test.dir\\geometry_test.cc.obj -c \"C:\\Users\\curly\\OneDrive\\Informatik Studium\\Semester_6\\5 Computergraphik\\Labor\\Aufgabe 2 - Raytracing\\Raytracer_Verzeichnis\\geometry_test.cc\"",
+  "file": "C:\\Users\\curly\\OneDrive\\Informatik Studium\\Semester_6\\5 Computergraphik\\Labor\\Aufgabe 2 - Raytracing\\Raytracer_Verzeichnis\\geometry_test.cc",
+  "output": "CMakeFiles\\geometry_test.dir\\geometry_test.cc.obj"
+},
+{
+  "directory": "C:/Users/curly/OneDrive/Informatik Studium/Semester_6/5 Computergraphik/Labor/Aufgabe 2 - Raytracing/Raytracer_Verzeichnis/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -g -std=gnu++20 -g -Wall -Wextra -Wpedantic -Wl,--stack,16777216 -o CMakeFiles\\geometry_test.dir\\raytracer.cc.obj -c \"C:\\Users\\curly\\OneDrive\\Informatik Studium\\Semester_6\\5 Computergraphik\\Labor\\Aufgabe 2 - Raytracing\\Raytracer_Verzeichnis\\raytracer.cc\"",
+  "file": "C:\\Users\\curly\\OneDrive\\Informatik Studium\\Semester_6\\5 Computergraphik\\Labor\\Aufgabe 2 - Raytracing\\Raytracer_Verzeichnis\\raytracer.cc",
+  "output": "CMakeFiles\\geometry_test.dir\\raytracer.cc.obj"
+}
+]
